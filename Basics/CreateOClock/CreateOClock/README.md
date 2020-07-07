@@ -8,4 +8,4 @@
 https://catlikecoding.com/unity/tutorials/basics/game-objects-and-scripts/
 
 
-![Completed Clock](Basics/CreateOClock/CreateOClock/Images/tutorial_image.jpg)
+![Completed Clock](/Images/tutorial_image.jpg)
